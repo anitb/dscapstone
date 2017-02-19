@@ -2,12 +2,12 @@
 title: "Capstone Project - Milestone Report"
 author: "Anit Bhandari"
 output:
-  pdf_document:
-    toc: yes
   html_document:
     highlight: textmate
     keep_md: yes
     theme: cosmo
+    toc: yes
+  pdf_document:
     toc: yes
 ---
 
@@ -239,7 +239,7 @@ To create a smooth and fast application it is absolutely necessary to build a fa
 
 # All Used Code Scripts
 
-All used code snippets to generate this report can be viewed in this [repository](https://github.com/mhnierhoff/CapstoneCoursera/tree/master/MilestoneReport).
+All used code snippets to generate this report can be viewed in this [repository](https://github.com/anitb/dscapstone/tree/master/MilestoneReport).
 
 # Session Informations
 ```{r}
