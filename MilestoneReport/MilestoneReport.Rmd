@@ -2,6 +2,8 @@
 title: "Capstone Project - Milestone Report"
 author: "Anit Bhandari"
 output:
+  pdf_document:
+    toc: yes
   html_document:
     highlight: textmate
     keep_md: yes
